@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    height: auto;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    position: sticky;
+    top: 0;
+}
+#wrapper{
+    margin: 10px;
+}
+p{
+    text-align: center;
+    height: auto;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(225, 11, 197);
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
